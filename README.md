@@ -1,5 +1,9 @@
 # MCP Server Client Knowledge
 
+![Project logo](./logo.png)
+
+[Lead repository on GitLab](https://gitlab.com/universalamateur1/mcp-server-client-knowledge)
+
 
 
 ## Getting started
